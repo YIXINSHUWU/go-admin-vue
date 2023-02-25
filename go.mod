@@ -24,13 +24,11 @@ require (
 	github.com/robfig/cron/v3 v3.0.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/shirou/gopsutil v2.20.3+incompatible
-	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.6.2
 	github.com/swaggo/gin-swagger v1.2.0
 	github.com/swaggo/swag v1.6.5
 	github.com/unrolled/secure v1.0.8
-	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
-	golang.org/x/tools v0.0.0-20200402223321-bcf690261a44 // indirect
+	golang.org/x/crypto v0.1.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
